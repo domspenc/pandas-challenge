@@ -11,40 +11,41 @@ This repository showcases a python pandas analysis of local public and private s
 </br>
 <h2>Observable Trends</h2>
 </br>
-<p>
-Three observations that can be drawn from this analysis are as follows:
+<p>Three observations that can be drawn from this analysis are as follows:</p> 
 </br>
 </br>
 <h5>1.</h5> 
-</br>
-Looking at the top 5 and bottom 5 schools, according to '% Overall Passing', it is interesting to note that the highest performing school (Griffin High School) and lowest performing school (Hernandez High School) both have a similar per student budget, and yet student results are significantly different.
+<p>Looking at the top 5 and bottom 5 schools, according to '% Overall Passing', it is interesting to note that the highest performing school (Griffin High School) and lowest performing school (Hernandez High School) both have a similar per student budget, and yet student results are significantly different.
 </br>
 </br>
 Perhaps, when looking at the 'Total Students' and 'Total School Budget' data for these schools, it is clear to see that there are 315% more students at Hernandez High School than Griffin High School.
-Although both schools' budget per student is nearly on par, class sizes at Hernandez High School may be significantly larger, and therefore the quantity of student-teacher contact time, per student, is on average significantly less, resulting in lower test scores.
+Although both schools' budget per student is nearly on par, class sizes at Hernandez High School may be significantly larger, and therefore the quantity of student-teacher contact time, per student, is on average significantly less, resulting in lower test scores.</p> 
 </br>
 </br>
 <h5>2.</h5> 
-</br>
-On this same thread, it is clear that the smaller the school (less than 1000 students), the higher the average test score.
+<p>On this same thread, it is clear that the smaller the school (less than 1000 students), the higher the average test score.
 </br>
 </br>
 When looking at the data school by school, in particular the top 5 and bottom 5 performing schools, the data seems to contradict itself. However, when looking at average test results categorised by school size, this observation becomes more clear.
 </br>
 </br>
-This observations suggests that students in schools with a smaller student population have a more beneficial learning experience, have higher  quality contact time with teachers, have potentially less distractions, and therefore deliver better results than their peers attending schools with a larger student population.
+This observations suggests that students in schools with a smaller student population have a more beneficial learning experience, have higher  quality contact time with teachers, have potentially less distractions, and therefore deliver better results than their peers attending schools with a larger student population.</p> 
 </br>
 </br>
 <h5>3.</h5> 
-</br>
-When looking at the data categorised by School Type, test results on average are lower for Government schools, and higher for Independent schools.
-</br>
-</br>
-Interestingly, the average budget per student for Government schools is higher than that for Independent schools.
+<p>When looking at the data categorised by School Type, test results on average are lower for Government schools, and higher for Independent schools.
 </br>
 </br>
-Thank you for reading!
+Interestingly, the average budget per student for Government schools is higher than that for Independent schools.</p> 
 </br>
 </br>
-Image by redgreystock on Freepik
-</p>  
+----------------------------------------------------------
+</br>
+</br>
+<p>Thank you for reading!</p> 
+</br>
+<h3>📚🍎🎒</h3>
+</br>
+</br>
+<p>Image by redgreystock on Freepik</p> 
+ 
