@@ -2,7 +2,7 @@
 <img
         src="https://img.freepik.com/free-vector/flat-happy-college-university-students-with-books-backpacks_88138-977.jpg?w=826&t=st=1692171617~exp=1692172217~hmac=73205f85ed82608f4ee3b56009c9e6d19d270af6a2ed0f2a203904d0f8d47868"
         alt="Students"
-        width="350"
+        width="650"
       />
 </br>
 <p>
